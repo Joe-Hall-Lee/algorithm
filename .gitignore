@@ -1,0 +1,52 @@
+# IntelliJ IDEA project files
+.idea/
+
+# Compiled class files
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs (can appear in your working dir if your IDE crashes)
+hs_err_pid*
+
+# Out directory (often contains build outputs)
+out/
+
+# User-specific stuff
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+
+# Some other common IDE settings and logs
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+
+# Gradle files
+.gradle/
+
+# Maven build directory
+target/
+
+# SBT (Simple Build Tool) directory
+project/target/
+project/project/
+
+# Logs
+logs/
+*.log
+
+# System files
+*.iml
